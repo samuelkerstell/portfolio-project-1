@@ -25,6 +25,9 @@ https://ui.dev/amiresponsive
 * ### Music Gallery
   * Displays playable music with a music player.
 
+* ### About Us
+  * The About Us section tells the user what the site offers.
+  * The About Us section also shows additional information.
 
 # Testing
 
