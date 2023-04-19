@@ -23,6 +23,7 @@ https://ui.dev/amiresponsive
   * The header tells who the site is for and what they can expect.
 
 * ### Music Gallery
+  * Displays playable music with a music player.
 
 
 # Testing
