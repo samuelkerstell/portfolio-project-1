@@ -29,6 +29,10 @@ https://ui.dev/amiresponsive
   * The About Us section tells the user what the site offers.
   * The About Us section also shows additional information.
 
+* ### Send Music
+  * The user can sumbit their email address.
+  * The user can upload their own song file.
+  * The user can add additional text which should include necessary information.
 # Testing
 
 ### Bugs
