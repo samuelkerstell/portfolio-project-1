@@ -11,3 +11,9 @@ body {
     font-weight: 300;
     color: #373737;
 }
+
+h1, h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
