@@ -24,6 +24,7 @@ https://ui.dev/amiresponsive
 
 * ### Music Gallery
   * Displays playable music with a music player.
+  * This is valuable for a user that is searching for new music.
 
 * ### About Us
   * The About Us section tells the user what the site offers.
@@ -33,6 +34,11 @@ https://ui.dev/amiresponsive
   * The user can sumbit their email address.
   * The user can upload their own song file.
   * The user can add additional text which should include necessary information.
+  * This is valuable to the user if they want to send in their own music.
+
+* ### The Footer
+  * The footer includes several social media links about Sam's Music Blog, the links will open in a new tab.
+  * The footer is valuable as it's encourages users to keep up with Sam's Music Blog through social media.
 # Testing
 
 ### Bugs
