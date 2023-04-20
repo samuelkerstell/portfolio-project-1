@@ -1,6 +1,6 @@
 # Sam's Music Blog
 
-Welcome!
+## Welcome!
 
 This is a music blog for users all around the world to send in their music for a chance to be featured in the Music Gallery.
 
