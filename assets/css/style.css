@@ -21,13 +21,27 @@ h1, h2 {
 
 a {
     text-decoration: none;
+    color: #ff6f00
 }
 
 #logo {
+    font-size: 200%;
     text-align: center;
-    margin-top: 8px;
+    padding: 16px;
 }
+
+#menu {
+    font-size: 120%;
+    letter-spacing: 4px;
+}
+
+
 
 #menu li {
     text-align: center;
+    
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #373737; 
 }
