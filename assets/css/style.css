@@ -15,6 +15,7 @@ body {
 h1, h2, h3 {
     font-family: 'Source Sans Pro', sans-serif;
     text-transform: uppercase;
+    text-align: center;
     letter-spacing: 4px;
     color: #373737;
 }
@@ -26,7 +27,6 @@ a {
 
 #logo {
     font-size: 200%;
-    text-align: center;
     margin: 8px 8px 0px 8px;
 }
 
@@ -59,15 +59,26 @@ a {
 }
 
 #edm {
-    text-align: center;
+    
 }
 
 #edm-header {
     font-size: 130%;
-    padding: 8px 8px 8px 8px;
+    margin: 16px;
 }
 
-#edm p { font-size: 110%;
-    padding: 2px;
+#edm p {
+    font-size: 110%;
+    text-align: center;
+
+}
+
+/* Audio Section */
+
+#gallery {
+    margin: 16px;
+}
+
+audio {
 
 }
