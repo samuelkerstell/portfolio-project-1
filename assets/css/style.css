@@ -89,3 +89,9 @@ audio {
 .song-title {
     text-align: center;
 }
+
+.player {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
