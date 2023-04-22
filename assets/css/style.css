@@ -18,6 +18,7 @@ h1, h2, h3 {
     text-align: center;
     letter-spacing: 4px;
     color: #373737;
+    font-size: 200%;
 }
 
 a {
@@ -31,8 +32,7 @@ a {
 }
 
 #menu {
-    font-size: 120%;
-    letter-spacing: 8px;
+    font-size: 135%;
     line-height: 24px;
     text-align: center;
 }
@@ -51,7 +51,7 @@ a {
 /* Hero image */
 
 #hero-image {
-    height: 250px;
+    height: 450px;
     width: 100%;
     background: url(../images/pexels-isabella-mendes-860707-min.jpg) no-repeat center center;
     background-size: cover;
@@ -62,14 +62,13 @@ a {
     
 }
 
-#edm-header {
-    font-size: 130%;
-    margin: 16px;
+#about {
+    margin: 8px;
 }
 
 #edm p {
-    font-size: 110%;
-    text-align: center;
+    margin: 4px 16px 8px 16px;
+    
 
 }
 
@@ -81,4 +80,8 @@ a {
 
 audio {
 
+}
+
+.song-title {
+    text-align: center;
 }
