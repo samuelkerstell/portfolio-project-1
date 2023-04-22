@@ -21,6 +21,10 @@ h1, h2, h3 {
     font-size: 200%;
 }
 
+p {
+    margin: 4px 16px 8px 16px;
+}
+
 a {
     text-decoration: none;
     color: black
@@ -67,7 +71,7 @@ a {
 }
 
 #edm p {
-    margin: 4px 16px 8px 16px;
+    
     
 
 }
