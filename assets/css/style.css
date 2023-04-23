@@ -117,8 +117,8 @@ fieldset {
     padding: 0 2px 0 2px;
   }
 
-.send-music {
-    
+label {
+    font-weight: bold;
 }
 
 input[type="text"]{
