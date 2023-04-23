@@ -114,7 +114,8 @@ input[type="submit"]{
   }
 
 footer {
-    height: 150px;
+    height: 75px;
+    border-top: 1px solid black;
 }
 
 .social-networks {
