@@ -42,9 +42,9 @@ a {
 #menu {
     font-size: 110%;
     line-height: 24px;
-    text-align: center;
     text-transform: uppercase;
     font-weight: bold;
+    padding-left: 22px;
 }
 
 
@@ -76,10 +76,8 @@ a {
     margin: 8px;
 }
 
-#edm p {
-    
-    
-
+h2 > p {
+    margin: 8px;
 }
 
 /* Audio Section */
@@ -104,6 +102,10 @@ audio {
 
 /* Send Music section */
 
+input, label, .send-music {
+    padding-left: 20px;
+}
+
 input[type="text"]{
   border: 1px solid #373737;;
   border-radius: 10px;
@@ -112,6 +114,8 @@ input[type="text"]{
 input[type="submit"]{
     border: 1px solid #373737;
   }
+
+/*Footer*/
 
 footer {
     height: 75px;
@@ -130,5 +134,5 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #3a3a3a
+    color: #373737;
 }
