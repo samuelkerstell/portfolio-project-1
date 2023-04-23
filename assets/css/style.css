@@ -44,10 +44,8 @@ a {
     line-height: 24px;
     text-transform: uppercase;
     font-weight: bold;
-    padding-left: 22px;
+    padding-left: 5%;
 }
-
-
 
 #menu li {
     list-style-type: none;
@@ -102,17 +100,38 @@ audio {
 
 /* Send Music section */
 
-input, label, .send-music {
+fieldset {
+    border: 2px solid black;
+    border-radius: 6px;
+  }
+
+  legend {
+    padding-left: 20px;
+  }
+
+.send-music {
     padding-left: 20px;
 }
 
 input[type="text"]{
   border: 1px solid #373737;;
-  border-radius: 10px;
+  width: 15em;
+
 }
 
 input[type="submit"]{
     border: 1px solid #373737;
+    padding: 0 2px 0 2px;
+    background-color: black;
+    color: white;
+  }
+
+input[type="file"] {
+    margin-bottom: 10px;
+  }
+
+  form {
+    margin: 20px 0px 20px 0px;
   }
 
 /*Footer*/

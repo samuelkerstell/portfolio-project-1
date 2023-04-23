@@ -44,33 +44,41 @@
         <h4 class="song-title">Moodshift - Sam Kerstell Bootleg</h4>
         <div class="player">
             <audio controls type="audio/mp3">
-                <source src="assets/audio/Moodshift - Chemistry (Sam Kerstell Bootleg).mp3">
+                <source src="assets/audio/Moodshift-Chemistry (Sam Kerstell Bootleg).mp3">
                 This Browser Does Not Support HTML5 Audio</audio>
         </div>
         <h4 class="song-title">Teenage Crime - Sam Kerstell Bootleg</h4>
         <div class="player">
             <audio controls type="audio/mp3">
-                <source src="assets/audio/Adrian Lux - Teenage Crime (Sam Kerstell Bootleg).mp3">
+                <source src="assets/audio/Adrian Lux-Teenage Crime (Sam Kerstell Bootleg).mp3">
                 This Browser Does Not Support HTML5 Audio</audio>
         </div>
 
     </section>
     <section id="send">
         <form action="*" method="post">
-            <label for="send-in"><h4 class="send-music">Send In Your Music!</h4></label>
-            <label for="name">Your Name</label>
-            <input type="text" name="name" id="name" required>
-            <br>
-            <label for="song-name">Song Name</label>
-            <input type="text" name="song-name" id="song-name" required>
-            
-            <input type="file" name="file/mp3" required>
-            <input type="submit" value="Submit">
+            <fieldset>
+                <legend>
+                    <h4>Send In Your Music!</h4>
+                </legend>
+
+
+                <label for="name" class="send-music">Your Name:</label>
+                <input type="text" name="name" id="name" required>
+
+                <br>
+
+                <label for="song-name" class="send-music">Song Name:</label>
+                <input type="text" name="song-name" id="song-name" required>
+
+                <input type="file" name="file/mp3" required class="send-music">
+                <input type="submit" value="Submit">
+            </fieldset>
         </form>
     </section>
-    <section id="">
+    <section id="about">
         <div id="edm">
-            <h2 id="about">About Us</h2>
+            <h2>About Us</h2>
             <p>This website is meant for up-and-coming producers/artist to promote their music.
                 <br>
                 <br>
@@ -81,16 +89,23 @@
     <footer>
         <ul class="social-networks">
             <li>
-                <a href="https://facebook.com" target="_blank" rel="noopener" aria-label="Visit our Facebook page (opens in a new tab)"><i class="fa-brands fa-facebook"></i></a>
+                <a href="https://facebook.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Facebook page (opens in a new tab)"><i class="fa-brands fa-facebook"></i></a>
             </li>
             <li>
-                <a href="https://twitter.com" target="_blank" rel="noopener" aria-label="Visit our Twitter page (opens in a new tab)"><i class="fa-brands fa-square-twitter"></i></a>
+                <a href="https://twitter.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Twitter page (opens in a new tab)"><i
+                        class="fa-brands fa-square-twitter"></i></a>
             </li>
             <li>
-                <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="Visit our YouTube page (opens in a new tab)"><i class="fa-brands fa-square-youtube"></i></a>
+                <a href="https://youtube.com" target="_blank" rel="noopener"
+                    aria-label="Visit our YouTube page (opens in a new tab)"><i
+                        class="fa-brands fa-square-youtube"></i></a>
             </li>
             <li>
-                <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="Visit our Instagram page (opens in a new tab)"><i class="fa-brands fa-instagram"></i></i></a>
+                <a href="https://instagram.com" target="_blank" rel="noopener"
+                    aria-label="Visit our Instagram page (opens in a new tab)"><i
+                        class="fa-brands fa-instagram"></i></i></a>
             </li>
         </ul>
     </footer>
