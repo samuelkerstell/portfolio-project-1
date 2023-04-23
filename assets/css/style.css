@@ -67,11 +67,11 @@ a {
 }
 
 #edm {
-    
+    padding: 40px 0px 80px 0px;
 }
 
 #about {
-    margin: 8px;
+
 }
 
 h2 > p {
@@ -103,19 +103,21 @@ audio {
 fieldset {
     border: 2px solid black;
     border-radius: 6px;
+    padding-inline-start: 20px;
   }
 
   legend {
-    padding-left: 20px;
+    padding: 0 2px 0 2px;
   }
 
 .send-music {
-    padding-left: 20px;
+    
 }
 
 input[type="text"]{
   border: 1px solid #373737;;
   width: 15em;
+  margin-bottom: 2px;
 
 }
 
@@ -131,7 +133,7 @@ input[type="file"] {
   }
 
   form {
-    margin: 20px 0px 20px 0px;
+    margin: 0px 0px 40px 0px;
   }
 
 /*Footer*/
