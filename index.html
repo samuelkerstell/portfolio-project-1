@@ -16,20 +16,21 @@
         <a href="index.html">
             <h1 id="logo">Sam's Music Blog</h1>
         </a>
+
+        <nav>
+            <ul id="menu">
+                <li>
+                    <a href="#gallery">Music Gallery</a>
+                </li>
+                <li>
+                    <a href="#send">Send Music</a>
+                </li>
+                <li>
+                    <a href="#about">About Us</a>
+                </li>
+            </ul>
+        </nav>
     </header>
-    <nav>
-        <ul id="menu">
-            <li>
-                <a href="#gallery">Music Gallery</a>
-            </li>
-            <li>
-                <a href="#send">Send Music</a>
-            </li>
-            <li>
-                <a href="#about">About Us</a>
-            </li>
-        </ul>
-    </nav>
     <section>
         <div id="hero-image"></div>
     </section>
@@ -70,6 +71,7 @@
 
                 <label for="song-name" class="send-music">Song Name:</label>
                 <input type="text" name="song-name" id="song-name" required>
+                <br>
 
                 <input type="file" name="file/mp3" required class="send-music">
                 <input type="submit" value="Submit">

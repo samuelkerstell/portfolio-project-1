@@ -163,3 +163,58 @@ footer {
     padding: 5%;
     color: #373737;
 }
+
+
+@media screen and (min-width: 590px) {
+    #edm {
+        text-align: center;
+    }
+
+    #menu {
+        text-align: center;
+    }
+    
+
+@media screen and (min-width: 950px) {
+    #logo {
+        text-align: initial;
+    }
+
+    #menu {
+        margin-top: -75px;
+        float: right;
+        padding-right: 8px;
+    }
+
+    #menu li {
+        display: inline;
+        padding-left: 0;
+        padding: 10px;
+        letter-spacing: 4px;
+    }
+
+    #menu, #logo {
+        line-height: 75px;
+    }
+
+    #edm {
+        text-align: center;
+    
+}
+
+@media screen and (min-width: 1400px) {
+    #hero-image {
+        height: 700px;
+    
+    }
+
+    fieldset {
+        padding-top: 50px;
+    }
+
+    #edm {
+        text-align: center;
+        height: 300px;
+    }
+
+}
