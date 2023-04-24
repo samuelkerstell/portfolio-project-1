@@ -105,6 +105,37 @@ audio {
     align-items: center;
 }
 
+audio::-webkit-media-controls-panel {
+    background-color: black;
+}
+
+audio::-webkit-media-controls-mute-button {
+    background-color: white;
+    border-radius: 16px;
+}
+
+audio::-webkit-media-controls-play-button {
+    background-color: white;
+    border-radius: 16px;
+}
+
+audio::-webkit-media-controls-timeline {
+    background-color: white;
+    border-radius: 16px;
+    padding: 1px;
+}
+
+audio::-webkit-media-controls-current-time-display {
+    color: white;
+    padding: 2px;
+}
+
+
+audio::-webkit-media-controls-time-remaining-display {
+    color: white;
+    padding: 2px;
+}
+
 /* Send Music section */
 
 fieldset {
