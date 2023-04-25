@@ -12,7 +12,13 @@ body {
     color: black
 }
 
-h1, h2, h3 {
+html {
+    scroll-behavior: smooth;
+  }
+
+h1,
+h2,
+h3 {
     font-family: 'Source Sans Pro', sans-serif;
     text-transform: uppercase;
     text-align: center;
@@ -49,11 +55,12 @@ a {
 
 #menu li {
     list-style-type: none;
-    
+    text-align: center;
+
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #373737; 
+    border-bottom: 1px solid #373737;
 }
 
 /* Hero image */
@@ -72,16 +79,14 @@ a {
     padding: 40px 0px 80px 0px;
 }
 
-div > h2 {
+div>h2 {
     color: inherit;
     padding-bottom: 10px;
 }
 
-#about {
+#about {}
 
-}
-
-h2 > p {
+h2>p {
     margin: 8px;
 }
 
@@ -142,36 +147,36 @@ fieldset {
     border: 2px solid black;
     border-radius: 6px 6px 0px 0px;
     padding-inline-start: 20px;
-  }
+}
 
-  legend {
+legend {
     padding: 0 2px 0 2px;
-  }
+}
 
 label {
     font-weight: bold;
 }
 
-input[type="text"]{
-  border: 1px solid #373737;;
-  width: 15em;
-  margin-bottom: 2px;
+input[type="text"] {
+    border: 1px solid #373737;
+    ;
+    width: 15em;
+    margin-bottom: 2px;
 
 }
 
-input[type="submit"]{
+input[type="submit"] {
     border: 1px solid #373737;
     padding: 0 2px 0 2px;
     background-color: black;
     color: white;
-  }
+}
 
 input[type="file"] {
     margin-bottom: 10px;
-  }
+}
 
-  form {
-  }
+form {}
 
 /*Footer*/
 
@@ -184,7 +189,7 @@ footer {
     text-align: center;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 
@@ -204,7 +209,7 @@ footer {
     #menu {
         text-align: center;
     }
-    
+}
 
 @media screen and (min-width: 950px) {
     #logo {
@@ -224,19 +229,21 @@ footer {
         letter-spacing: 4px;
     }
 
-    #menu, #logo {
+    #menu,
+    #logo {
         line-height: 75px;
     }
 
     #edm {
         text-align: center;
-    
+
+    }
 }
 
 @media screen and (min-width: 1400px) {
     #hero-image {
         height: 700px;
-    
+
     }
 
     fieldset {
