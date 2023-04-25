@@ -32,7 +32,9 @@
         </nav>
     </header>
     <section>
-        <div id="hero-image"></div>
+        <div>
+            <div id="hero-image"></div>
+        </div>
     </section>
     <section id="music-player">
         <h2 id="gallery">Music Gallery</h2>
@@ -73,8 +75,10 @@
                 <input type="text" name="song-name" id="song-name" required>
                 <br>
 
-                <input type="file" name="file/mp3" required class="send-music">
-                <input type="submit" value="Submit">
+                <label for="file"></label>
+                <input type="file" name="file/mp3" id="file" required class="send-music">
+                <label for="submit"></label>
+                <input type="submit" value="Submit" id="submit">
             </fieldset>
         </form>
     </section>
@@ -96,7 +100,8 @@
             </li>
             <li>
                 <a href="https://soundcloud.com/skerstell" target="_blank" rel="noopener"
-                    aria-label="Visit our Soundcloud page (opens in a new tab)"><i class="fa-brands fa-soundcloud"></i></a>
+                    aria-label="Visit our Soundcloud page (opens in a new tab)"><i
+                        class="fa-brands fa-soundcloud"></i></a>
             </li>
             <li>
                 <a href="https://youtube.com" target="_blank" rel="noopener"
