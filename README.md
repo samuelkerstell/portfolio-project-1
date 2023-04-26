@@ -15,12 +15,12 @@ https://ui.dev/amiresponsive
   * Can be seen on both pages, includes the logo and the navigation bar.
   * Includes: Music Gallery, About Us, Contact Us. This will link to the diffrent sections of the page.
   * The navigation bar tells the user where they can find the different sections and what they can expect when clicked on.  
-"image"
+
 
 * ### The landing page image
   * The image is capturing the visitors attention and setting the mood.
   * The image fits in with the rest of the site making the site look more proffesional.
-
+![Screenshot of the navigation bar.](assets/images/navigation-Bar.jpg)
 * ### Music Gallery
   * Users can discover new and exciting music form up-and-coming artists.
   * This is valuable for artist looking for a new ways to showcase their work.
