@@ -54,8 +54,6 @@ This website is designed to showcase up-and-coming producers and artists and pro
   * The footer includes several social media links for Sam's Music Blog, the links will open in a new tab.
   * The footer is valuable as it improves user experience and encourages users to keep up with Sam's Music Blog through social media.
 # Testing
-* Accessibility
-
 * I tested that this site works in different browsers: Chrome, Opera, Safari
 * I've tested that the site is responsive and looks good on different devices.
 * I've tested that the form works and requires Email, Name and Song Name to submit.
@@ -71,9 +69,9 @@ I fixed it by making a new html page and adding confirmation.html to the form ac
 
 ## Validator Testing
 * HTML
-  * No errors were returned when passing through the official W3C validator
+  * No errors were returned when passing through the official [W3C validator](https://validator.w3.org)
 * CSS
-  * No errors were found when passing through the official (Jigsaw) validator
+  * No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
 #### Accessibility
 ![Lighthouse Pagespeed](assets/images/lighthouse.png)
 
@@ -91,4 +89,4 @@ The live link can be found here - [Sam's Music Blog](https://samuelkerstell.gith
 * Instructions on how to style audio element was taken from this [blog page](https://blog.shahednasser.com/how-to-style-an-audio-element/)
 * Instructions on how to center an audio element was take from this [page](https://stackoverflow.com/questions/16823868/center-html-5-audio-players-for-all-browsers)
 ## Media
-* The image in the header was taken from [Pexels](https://www.pexels.com/photo/grayscale-photography-of-person-using-dj-controller-860707/)
+* The landing page image was taken from [Pexels](https://www.pexels.com/photo/grayscale-photography-of-person-using-dj-controller-860707/)
