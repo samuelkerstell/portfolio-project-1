@@ -77,15 +77,22 @@ a {
 
 /* About us */
 
-#edm {
+.edm {
     color: #FFFFFF;
     background-color: #000000;
-    padding: 5% 0px 5% 0px;
     text-align: center;
 }
 
-#edm p {
+.edm p {
     font-size: 120%;
+}
+
+.about-us {
+    padding: 5% 0px 2.5% 0px;
+}
+
+.contact-us {
+    padding: 2.5% 0px 5% 0px;;
 }
 
 .contact {
@@ -97,8 +104,6 @@ div>h2 {
     color: inherit;
     padding-bottom: 10px;
 }
-
-#about {}
 
 h2>p {
     margin: 8px;
@@ -123,6 +128,8 @@ audio {
     justify-content: center;
     align-items: center;
 }
+
+/* Source: https://blog.shahednasser.com/how-to-style-an-audio-element/ */
 
 audio::-webkit-media-controls-panel {
     background-color: #000000;
