@@ -171,7 +171,7 @@ audio::-webkit-media-controls-time-remaining-display {
 fieldset {
     border: 2px solid #000000;
     border-radius: 6px 6px 0px 0px;
-    padding-bottom: 5%;
+    padding-bottom: 2.5%;
 }
 
 legend {
@@ -212,6 +212,15 @@ input[type="submit"]:hover {
 
 input[type="file"] {
     width: 200px;
+    font-weight: bold;
+    
+}
+
+input::file-selector-button {
+    padding: 2%;
+    background-color: #000000;
+    color: #FFFFFF;
+    border-radius: 16px;
 }
 
 form {

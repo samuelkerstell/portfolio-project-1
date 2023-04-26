@@ -2,9 +2,7 @@
 
 ## Welcome!
 
-This is a music blog for users all around the world to send in their music for a chance to be featured in the Music Gallery.
-
-Users of this site will be able to listen to featured music, how to send in their own music and how to find out more about us.
+This website is designed to showcase up-and-coming producers and artists and provide a platform for them to promote their music to a wider audience.
 
 https://ui.dev/amiresponsive
 
@@ -12,33 +10,39 @@ https://ui.dev/amiresponsive
 
 ## Existing Features
 
-* ### Navigation
-  * Featured on top of the page is Sam's Music Blog that links to the top of the page.
-  * To the right we have: About Us, Music Gallery, Send Music. This will link to the diffrent sections of the page.
+* ### Navigation Bar
+  * Easily navigate through the website using the top navigation bar.
+  * Can be seen on both pages, includes the logo and the navigation bar.
+  * Includes: Music Gallery, About Us, Contact Us. This will link to the diffrent sections of the page.
   * The navigation bar tells the user where they can find the different sections and what they can expect when clicked on.  
+"image"
 
-* ### The Header
-  * The header show the name of the website.
-  * The header tells that the site is for people who want to find new music.
-  * The header tells who the site is for and what they can expect.
+* ### The landing page image
+  * The image is capturing the visitors attention and setting the mood.
+  * The image fits in with the rest of the site making the site look more proffesional.
 
 * ### Music Gallery
-  * Displays playable music with a music player.
-  * This is valuable for a user that is searching for new music.
+  * Users can discover new and exciting music form up-and-coming artists.
+  * This is valuable for artist looking for a new ways to showcase their work.
+  * This is valuable for visitors looking for new music.
+"image"
+
+* ### Send In Your Music!
+  * This section provides a platform for emerging artists to showcase their work and potentially gain exposure to a wider audience.
+  * Encouraging engagement: This section provides a clear call-to-action for visitors to send in their music.
 
 * ### About Us
-  * The About Us section tells the user what the site offers.
-  * The About Us section also shows additional information.
+  * The About Us section gives details of what we offer to the users.
+  * The About Us section gives you information on how you can send in your music. 
 
-* ### Send Music
-  * The user can sumbit their email address.
-  * The user can upload their own song file.
-  * The user can add additional text which should include necessary information.
-  * This is valuable to the user if they want to send in their own music.
+* ### Contact Us
+  * Provides a direct line of communication
+  * Improving user experience and credibility
+  * The contact us section is valuable if the users have any unaswered unanswered questions or suggestions.
 
 * ### The Footer
-  * The footer includes several social media links about Sam's Music Blog, the links will open in a new tab.
-  * The footer is valuable as it's encourages users to keep up with Sam's Music Blog through social media.
+  * The footer includes several social media links for Sam's Music Blog, the links will open in a new tab.
+  * The footer is valuable as it improves user experience and encourages users to keep up with Sam's Music Blog through social media.
 # Testing
 
 ### Bugs
