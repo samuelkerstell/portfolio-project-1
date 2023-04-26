@@ -4,7 +4,7 @@
 
 This website is designed to showcase up-and-coming producers and artists and provide a platform for them to promote their music to a wider audience.
 
-https://ui.dev/amiresponsive
+![Different screen sizes](assets/images/different-screen-sizes2.png)
 
 # Features
 
@@ -54,9 +54,21 @@ https://ui.dev/amiresponsive
   * The footer includes several social media links for Sam's Music Blog, the links will open in a new tab.
   * The footer is valuable as it improves user experience and encourages users to keep up with Sam's Music Blog through social media.
 # Testing
+* HTML
+  * No errors were returned when passing through the official W3C validator
+* CSS
+  * No errors were found when passing through the official (Jigsaw) validator
+* Accessibility
+
+![Lighthouse Pagespeed](assets/images/lighthouse.png)
 
 ### Bugs
+No bugs detected.
+
 #### Solved Bugs
+Whenever I tried to send in a file I would just get an Error response.
+Error code: 501.
+I fixed it by making a new html page and adding confirmation.html to the form action.
 
 ## Validator Testing
 #### HTML
