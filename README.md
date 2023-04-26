@@ -46,7 +46,7 @@ This website is designed to showcase up-and-coming producers and artists and pro
 * ### Contact Us
   * Provides a direct line of communication
   * Improving user experience and credibility
-  * The contact us section is valuable if the users have any unaswered unanswered questions or suggestions.
+  * The contact us section is valuable if the users have any unanswered questions or suggestions.
 
 ![Contact Us Section](assets/images/contact-us.jpg)
 
