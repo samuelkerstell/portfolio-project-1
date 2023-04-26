@@ -81,17 +81,16 @@ a {
     color: #FFFFFF;
     background-color: #000000;
     padding: 10% 0px 10% 0px;
-    font-size: 120%;
     text-align: center;
+}
+
+#edm p {
+    font-size: 120%;
 }
 
 .contact {
     padding-top: 10%;
-    
-}
 
-.top-margin {
-    margin-top: 10%;
 }
 
 div>h2 {
@@ -158,6 +157,10 @@ audio::-webkit-media-controls-time-remaining-display {
 
 /* Send Music section */
 
+.top-margin {
+    margin-top: 5%;
+}
+
 fieldset {
     border: 2px solid #000000;
     border-radius: 6px 6px 0px 0px;
@@ -172,13 +175,15 @@ label {
     width: 100%;
     display: inline-block;
     font-weight: bold;
+    margin-bottom: 8px;
 }
 
-input[type="text"], input[type="email"] {
+input[type="text"],
+input[type="email"] {
     border: 1px solid #373737;
     width: 15em;
     height: 1.5em;
-    margin-bottom: 2px;
+    margin-bottom: 8px;
 }
 
 input[type="submit"] {
@@ -199,13 +204,11 @@ input[type="submit"]:hover {
 }
 
 input[type="file"] {
-    text-align: center;
     width: 200px;
 }
 
 form {
     text-align: center;
-    margin: auto;
     font-size: 120%;
 }
 
@@ -234,35 +237,27 @@ footer {
 
 /* confirmation */
 
-.song-sent > h3 {
+.song-sent>h3 {
     font-size: 120%;
     margin-top: 100px;
     margin-bottom: .5%;
-    color: #000000;;
+    color: #000000;
 }
 
-.song-sent > p {
+.song-sent>p {
     text-align: center;
+    padding: 0 5% 0 5%;
 }
 
 .song-sent {
     font-size: 110%;
     font-weight: bold;
-    color: #373737S;
+    color: #373737;
+
 }
 
 
 /* Media queries */
-
-@media screen and (min-width: 590px) {
-    #edm {
-        text-align: center;
-    }
-
-    #menu {
-        text-align: center;
-    }
-}
 
 @media screen and (min-width: 950px) {
     #logo {
@@ -291,6 +286,17 @@ footer {
         text-align: center;
 
     }
+
+    input[type="submit"] {
+        padding: 1%;
+        border-radius: 36px;
+    }
+
+    input[type="text"],
+    input[type="email"] {
+        width: 25em;
+        height: 2em;
+    }
 }
 
 @media screen and (min-width: 1400px) {
@@ -306,5 +312,20 @@ footer {
     #edm {
         text-align: center;
         height: 300px;
+    }
+
+    .top-margin {
+        margin-top: 0;
+    }
+
+    input[type="submit"] {
+        padding: 1%;
+        border-radius: 36px;
+    }
+
+    input[type="text"],
+    input[type="email"] {
+        width: 25em;
+        height: 2em;
     }
 }
