@@ -36,7 +36,7 @@ p {
 
 a {
     text-decoration: none;
-    color: #000000;
+    color: #373737;
 }
 
 .center {
@@ -232,6 +232,27 @@ footer {
     color: #373737;
 }
 
+/* confirmation */
+
+.song-sent > h3 {
+    font-size: 120%;
+    margin-top: 100px;
+    margin-bottom: .5%;
+    color: #000000;;
+}
+
+.song-sent > p {
+    text-align: center;
+}
+
+.song-sent {
+    font-size: 110%;
+    font-weight: bold;
+    color: #373737;
+}
+
+
+/* Media queries */
 
 @media screen and (min-width: 590px) {
     #edm {
