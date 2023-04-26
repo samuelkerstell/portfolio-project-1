@@ -54,7 +54,7 @@ This website is designed to showcase up-and-coming producers and artists and pro
   * The footer includes several social media links for Sam's Music Blog, the links will open in a new tab.
   * The footer is valuable as it improves user experience and encourages users to keep up with Sam's Music Blog through social media.
 # Testing
-* I tested that this site works in different browsers: Chrome, Opera, Safari
+* I've tested that this site works in different browsers: Chrome, Opera, Safari
 * I've tested that the site is responsive and looks good on different devices.
 * I've tested that the form works and requires Email, Name and Song Name to submit.
 * I've tested that the footer works and all links opens in a new tab.

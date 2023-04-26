@@ -1,3 +1,4 @@
+/* Fonts & Structural CSS */
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&family=Source+Sans+Pro&display=swap');
 
 * {
@@ -48,6 +49,8 @@ a {
     margin: 8px 8px 0px 8px;
 }
 
+/*Navigation*/
+
 #menu {
     font-size: 120%;
     line-height: 24px;
@@ -70,12 +73,13 @@ a {
 #hero-image {
     height: 450px;
     width: 100%;
+    /* Image taken from: https://www.pexels.com/photo/grayscale-photography-of-person-using-dj-controller-860707/ */
     background: url(../images/pexels-isabella-mendes-860707-minCOMPRESSED.jpg) no-repeat center center;
     background-size: cover;
     margin-top: 8px;
 }
 
-/* About us */
+/* About us & Contact Us */
 
 .edm {
     color: #FFFFFF;
@@ -228,7 +232,7 @@ form {
     font-size: 120%;
 }
 
-/*Footer*/
+/*Footer code taken from: https://github.com/samuelkerstell/love-running*/
 
 footer {
     height: 75px;
