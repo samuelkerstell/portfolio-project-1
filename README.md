@@ -124,6 +124,7 @@ I've confirmed that the site is responsive and looks good on different screen si
 | Email Input             | Entered plain text                                                     | Tried to submit form with no @ symbol entered | Tooltip lets user know to us an email address here | Pass |
 | Name Input Empty        | The Name is a required field, so should not submit with no value        | Tried to submit form with no value entered    | Tooltip lets user know this value is required      | Pass |
 | Song Name Input Empty   | The Song Name is a required field, so should not submit with no value   | Tried to submit form with no value entered    | Tooltip lets user know this value is required      | Pass |
+| No File Choosen         | The choose file button is a required field, so should not submit with no value | Tried to submit form with no value entered | Tooltip lets user know selecting a file is required | Pass|
 | Choose File Button      | User chooses file and will get a visual confirmation file is choosen    | Press choose file button and chooses file     | File name shows up to the right of the button      | Pass |
 | Submit Button           | Redirected to a new page with confirmation that the song has been sent  | Tried to submit form with correct values entered | Redirected to the confirmation page with confirmation message | Pass |
 | | | | | |
