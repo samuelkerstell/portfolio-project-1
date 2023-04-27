@@ -15,6 +15,7 @@ This website is designed to showcase up-and-coming producers and artists and pro
   * Easily navigate through the website using the top navigation bar.
   * Can be seen on both pages, includes the logo and the navigation bar.
   * Navigation bar includes: Music Gallery, About Us, Contact Us. This will link to the diffrent sections of the page.
+  * Good contrast between font color and background.
 
 ![Screenshot of the navigation bar.](readme-doc/navigation-bar.jpg)
 
@@ -26,7 +27,7 @@ This website is designed to showcase up-and-coming producers and artists and pro
 
 * ### Music Gallery
   * Users can discover new and exciting music form up-and-coming artists.
-  * This is valuable for artist looking for a new ways to showcase their work.
+  * This is valuable for artist looking for new ways to showcase their work.
   * This is valuable for visitors searching for new music.
 
 ![Screenshot of the Music Gallery](readme-doc/music-gallery.jpg)
@@ -39,7 +40,7 @@ This website is designed to showcase up-and-coming producers and artists and pro
 
 * ### About Us
   * The About Us section gives details on what the site offers to the user.
-  * The About Us section gives you information on how you can send in your music. 
+  * The About Us section gives the user information on how you can send in your music. 
 
 ![Screenshot of the About Us section](readme-doc/about-us2.jpg)
 
@@ -53,6 +54,19 @@ This website is designed to showcase up-and-coming producers and artists and pro
 * ### The Footer
   * The footer includes several social media links for Sam's Music Blog, the links will open in a new tab.
   * The footer is valuable as it improves user experience and encourages users to keep up with Sam's Music Blog through social media.
+
+![Screenshot of the footer](readme-doc/footer.jpg)
+
+## Features
+ ### Music Gallery page.
+ * In the future I would like to add a page for the music gallery with different categories of music.
+
+# Wireframe
+
+![Balsamiq Wireframe](readme-doc/wireframe.jpg)
+
+I used Balsamiq for this wireframe.
+
 # Testing
 
 
@@ -63,7 +77,7 @@ This website is designed to showcase up-and-coming producers and artists and pro
 | `First time visitors` | |
 | Understand what the site is for and how to navigate the site. | The logo and the landing page image gives the user a good understanding of what the site is about. |
 | Find new music.  | By listening to music in the music gallery. |
-| Send in their music.       | The music displayed encourages users to send in their own music. |
+| Send in their music.       | The "Send In Your Music!" encourages users to send in their own music. |
 | `Returning Visitors`   |
 | To come back and find new music in the music gallery. | By updatng the music gallery regularly. |
 | Send in their latest music. | By promoting their past work in the music gallery. |
@@ -80,11 +94,17 @@ Full testing was performed on the following devices:
 * Mobile Devices:
   * iPhone 13.
 
-Each device tested the site using the following browsers:
-
+Desktop PC tested the site using the following browsers:
 * Google Chrome
-* Safari
+* Opera
 * Firefox
+
+The Apple devices tested the site using the following browsers:
+* Safari
+* Google Chrome
+
+
+I've confirmed that the site is responsive and looks good on different screen sizes.
 
 | `Feature` | `Expected Outcome` | `Testing Performance` | `Result` | `Pass/Fail`|
 | ----------|--------------------|-----------------------|----------|------------|
@@ -116,23 +136,14 @@ Each device tested the site using the following browsers:
 | YouTube Icon | When clicked user will be redirected to https://www.youtube.com in a new tab             | Clicked YouTube icon    | https://www.youtube.com opened in a new tab          | Pass |
 | Instagram Icon | When clicked user will be redirected to https://instagram.com/ in a new tab            | Clicked Instagram icon  | https://instagram.com/ opened in a new tab           | Pass |
 
-
-* I've confirmed that this site works in different browsers: Chrome, Opera, Safari
-* I've confirmed that the site is responsive and looks good on different screen sizes.
-* I've confirmed that the Send Music form works and requires Email, Name and Song Name to submit, when submitted you will be redirected to a confirmation page.
-* I've confirmed that the audio players, pause/play and mute buttons all work.
-* I've confirmed that the footer works and all links opens in a new tab.
-* I've confirmed that the navigation bar works and links to the right sections.
-* I've confirmed that the navigation, music gallery, send music, about us and contact us text is all readable and easy to comprehend.
-
 ### Bugs
 Fieldset styling is not working properly in firefox.
 
 #### Solved Bugs
 * Whenever I tried to send in a file I would just get the "Error code: 501".
-I fixed it by making a new html page and adding confirmation.html to the form action.
+ To resolve this I made a new html file and added confirmation.html to the form action.
 
-* The site was experiencing a horizontal scrolling on devices with a width of less than 305px. To resolve this, I applied the following code:
+* The site was experiencing horizontal scrolling on devices with a width of less than 305px. To resolve this, I applied the following code:
 
 ![Bug Fix](readme-doc/bug2.jpg)
 
@@ -153,6 +164,8 @@ I fixed it by making a new html page and adding confirmation.html to the form ac
   * [Font awesome](https://fontawesome.com) was used for the icons in the footer.
   * [Git](https://gitpod.io) was used for version control system to manage code changes, and the Gitpod terminal to commit those changes to Git and push them to GitHub.
   * [GitHub](https://github.com) was used to store the project code after being pushed from gitpod.
+  * [Balsamiq](https://balsamiq.cloud) was used for wireframe.
+  * [compressor.io](https://compressor.io) was used to compress the landing page image.
   * [ChatGPT](https://chat.openai.com) was used to improve copyright.
  ## Languages Used
  * HTML5
@@ -166,10 +179,12 @@ I fixed it by making a new html page and adding confirmation.html to the form ac
 The live link can be found here - [Sam's Music Blog](https://samuelkerstell.github.io/portfolio-project-1/index.html)
 
 # Credits
+## Code Used
+ * The CSS on the footer was taken from the [Love Running Project](https://github.com/samuelkerstell/love-running)
+
 ## Content
-* The CSS styling from the footer was taken from the [Love Running Project](https://github.com/samuelkerstell/love-running)
 * Instructions on how stick the footer to the bottom of the page was taken form this [page](https://dev.to/nehalahmadkhan/how-to-make-footer-stick-to-bottom-of-web-page-3i14)
-* Instructions on how to style audio element was taken from this [blog page](https://blog.shahednasser.com/how-to-style-an-audio-element/)
+* Instructions on how to style audio elements was taken from this [blog page](https://blog.shahednasser.com/how-to-style-an-audio-element/)
 * Instructions on how to center an audio element was take from this [page](https://stackoverflow.com/questions/16823868/center-html-5-audio-players-for-all-browsers)
 ## Media
 * The landing page image was taken from [Pexels](https://www.pexels.com/photo/grayscale-photography-of-person-using-dj-controller-860707/)
