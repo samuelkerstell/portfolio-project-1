@@ -57,7 +57,7 @@ This website is designed to showcase up-and-coming producers and artists and pro
 
 ![Screenshot of the footer](readme-doc/footer.jpg)
 
-## Features
+## Future Features
  ### Music Gallery page.
  * In the future I would like to add a page for the music gallery with different categories of music.
 
