@@ -14,20 +14,19 @@ This website is designed to showcase up-and-coming producers and artists and pro
   * Easily navigate through the website using the top navigation bar.
   * Can be seen on both pages, includes the logo and the navigation bar.
   * Navigation bar includes: Music Gallery, About Us, Contact Us. This will link to the diffrent sections of the page.
-  * The navigation bar takes the user to the different sections when clicked on.
 
 ![Screenshot of the navigation bar.](assets/images/navigation-Bar.jpg)
 
 * ### The landing page image
   * The image is capturing the visitors attention and setting the mood.
-  * The image fits in with the rest of the site making the site look more proffesional.
+  * The image fits in with the rest of the site making it look more proffesional.
 
-![Screenshot og the Landing page Image](assets/images/landing-page-image.jpg)
+![Screenshot of the Landing page Image](assets/images/landing-page-image.jpg)
 
 * ### Music Gallery
   * Users can discover new and exciting music form up-and-coming artists.
   * This is valuable for artist looking for a new ways to showcase their work.
-  * This is valuable for visitors looking for new music.
+  * This is valuable for visitors searching for new music.
 
 ![Screenshot of the Music Gallery](assets/images/music-gallery.jpg)
 
@@ -38,14 +37,14 @@ This website is designed to showcase up-and-coming producers and artists and pro
 ![Screenshot of the Send In Your Music! section](assets/images/send-music.jpg)
 
 * ### About Us
-  * The About Us section gives details of what we offer to the users.
+  * The About Us section gives details on what the site offers to the user.
   * The About Us section gives you information on how you can send in your music. 
 
 ![Screenshot of the About Us section](assets/images/about-us2.jpg)
 
 * ### Contact Us
-  * Provides a direct line of communication
-  * Improving user experience and credibility
+  * Provides a direct line of communication.
+  * Improving user experience and credibility.
   * The contact us section is valuable if the users have any unanswered questions or suggestions.
 
 ![Screenshot of the Contact Us Section](assets/images/contact-us.jpg)
@@ -63,8 +62,7 @@ This website is designed to showcase up-and-coming producers and artists and pro
 Fieldset styling is not working properly in firefox.
 
 #### Solved Bugs
-Whenever I tried to send in a file I would just get an Error response.
-Error code: 501.
+Whenever I tried to send in a file I would just get the "Error code: 501".
 I fixed it by making a new html page and adding confirmation.html to the form action.
 
 ## Validator Testing
@@ -84,7 +82,7 @@ The live link can be found here - [Sam's Music Blog](https://samuelkerstell.gith
 
 # Credits
 ## Content
-* The code from the footer was taken from the [Love Running Project](https://github.com/samuelkerstell/love-running)
+* The CSS styling from the footer was taken from the [Love Running Project](https://github.com/samuelkerstell/love-running)
 * Instructions on how stick the footer to the bottom of the page was taken form this [page](https://dev.to/nehalahmadkhan/how-to-make-footer-stick-to-bottom-of-web-page-3i14)
 * Instructions on how to style audio element was taken from this [blog page](https://blog.shahednasser.com/how-to-style-an-audio-element/)
 * Instructions on how to center an audio element was take from this [page](https://stackoverflow.com/questions/16823868/center-html-5-audio-players-for-all-browsers)
