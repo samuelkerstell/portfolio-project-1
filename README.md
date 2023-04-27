@@ -15,7 +15,7 @@ This website is designed to showcase up-and-coming producers and artists and pro
   * Can be seen on both pages, includes the logo and the navigation bar.
   * Navigation bar includes: Music Gallery, About Us, Contact Us. This will link to the diffrent sections of the page.
 
-![Screenshot of the navigation bar.](readme-doc/navigation-Bar.jpg)
+![Screenshot of the navigation bar.](readme-doc/navigation-bar.jpg)
 
 * ### The landing page image
   * The image is capturing the visitors attention and setting the mood.
@@ -57,6 +57,7 @@ This website is designed to showcase up-and-coming producers and artists and pro
 * I've tested that the site is responsive and looks good on different devices.
 * I've tested that the form works and requires Email, Name and Song Name to submit.
 * I've tested that the footer works and all links opens in a new tab.
+* I've tested that the navigation bar works and links to the right sections.
 
 ### Bugs
 Fieldset styling is not working properly in firefox.

@@ -254,27 +254,38 @@ footer {
     color: #373737;
 }
 
-/* confirmation */
+/* confirmation page */
 
 .song-sent>h3 {
     font-size: 120%;
-    margin-top: 100px;
+    margin-top: 50px;
     margin-bottom: .5%;
     color: #000000;
 }
 
 .song-sent>p {
     text-align: center;
-    padding: 0 5% 0 5%;
+    padding: 0 2.5% 0 2.5%;
 }
 
 .song-sent {
     font-size: 110%;
     font-weight: bold;
     color: #373737;
-
 }
 
+.confirmation-body {
+    min-height: 80vh;
+}
+
+.home-page {
+    color: #0000FF;
+    text-decoration: underline;
+}
+
+.song-sent > p:last-child {
+    margin-top: 100px;
+}
 
 /* Media queries */
 
@@ -287,7 +298,7 @@ footer {
     
 
 
-@media screen and (min-width: 950px) {
+@media screen and (min-width: 975px) {
     #logo {
         text-align: initial;
     }
@@ -308,11 +319,6 @@ footer {
     #menu,
     #logo {
         line-height: 75px;
-    }
-
-    #edm {
-        text-align: center;
-
     }
 
     input[type="submit"] {
