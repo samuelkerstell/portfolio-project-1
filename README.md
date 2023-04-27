@@ -15,7 +15,7 @@ This website is designed to showcase up-and-coming producers and artists and pro
   * Easily navigate through the website using the top navigation bar.
   * Can be seen on both pages, includes the logo and the navigation bar.
   * Navigation bar includes: Music Gallery, About Us, Contact Us. This will link to the diffrent sections of the page.
-  * The navigation bar is important for users as it provides quick and easy access to important sections of the website.
+  * The navigation bar is valuable for users as it provides quick and easy access to important sections of the website.
 
 ![Screenshot of the navigation bar.](readme-doc/navigation-bar.jpg)
 
