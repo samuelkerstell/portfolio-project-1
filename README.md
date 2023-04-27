@@ -157,7 +157,7 @@ Fieldset styling is not working properly in firefox.
 
 ![Screenshot of the Lighthouse Pagespeed](readme-doc/lighthouse.png)
 
-#### Technologies Used
+# Technologies Used
 
 ## Frameworks, Libaries & Progams Used
   * Hover:css was used on the navigation bar and the submit button to show a transition when hovered over.
