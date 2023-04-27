@@ -155,7 +155,7 @@ Fieldset styling is not working properly in firefox.
   * No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
 * Accessibility
 
-![Screenshot of the Lighthouse Pagespeed](readme-doc/lighthouse.png)
+![Screenshot of the Lighthouse Pagespeed](readme-doc/lighthouse22.png)
 
 # Technologies Used
 
