@@ -15,13 +15,14 @@ This website is designed to showcase up-and-coming producers and artists and pro
   * Easily navigate through the website using the top navigation bar.
   * Can be seen on both pages, includes the logo and the navigation bar.
   * Navigation bar includes: Music Gallery, About Us, Contact Us. This will link to the diffrent sections of the page.
-  * Good contrast between font color and background.
+  * The navigation bar is important for users as it provides quick and easy access to important sections of the website.
 
 ![Screenshot of the navigation bar.](readme-doc/navigation-bar.jpg)
 
 * ### The landing page image
   * The image is capturing the visitors attention and setting the mood.
   * The image fits in with the rest of the site making it look more proffesional.
+  * The landing page image is valuable as it's capturing the attetion of the user.
 
 ![Screenshot of the Landing page Image](readme-doc/landing-page-image.jpg)
 
@@ -33,14 +34,20 @@ This website is designed to showcase up-and-coming producers and artists and pro
 ![Screenshot of the Music Gallery](readme-doc/music-gallery.jpg)
 
 * ### Send In Your Music!
-  * This section provides a platform for emerging artists to showcase their work and potentially gain exposure to a wider audience.
+  * This section is valuable for emerging artists to showcase their work and potentially gain exposure to a wider audience.
   * Encouraging engagement: This section provides a clear call-to-action for visitors to send in their music.
 
 ![Screenshot of the Send In Your Music! section](readme-doc/send-music.jpg)
 
+* ### Confirmation Page
+  * This page is valuable because it lets the users know that their song has been sent in.
+
+  ![Screenshot of the Confirmation Page](readme-doc/confirmation.png)
+
 * ### About Us
   * The About Us section gives details on what the site offers to the user.
   * The About Us section gives the user information on how you can send in your music. 
+  * The about us section is valuable to users as it provides information about the site.
 
 ![Screenshot of the About Us section](readme-doc/about-us2.jpg)
 

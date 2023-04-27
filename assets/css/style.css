@@ -96,7 +96,8 @@ a {
 }
 
 .contact-us {
-    padding: 2.5% 0px 5% 0px;;
+    padding: 2.5% 0px 5% 0px;
+    ;
 }
 
 .contact {
@@ -216,7 +217,7 @@ input[type="submit"]:hover {
 input[type="file"] {
     width: 200px;
     font-weight: bold;
-    
+
 }
 
 input::file-selector-button {
@@ -283,7 +284,7 @@ footer {
     text-decoration: underline;
 }
 
-.song-sent > p:last-child {
+.song-sent>p:last-child {
     margin-top: 100px;
 }
 
@@ -295,7 +296,7 @@ footer {
         margin: 0px;
     }
 }
-    
+
 
 
 @media screen and (min-width: 975px) {
