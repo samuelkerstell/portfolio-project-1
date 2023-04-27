@@ -14,15 +14,15 @@ This website is designed to showcase up-and-coming producers and artists and pro
 * ### Navigation Bar
   * Easily navigate through the website using the top navigation bar.
   * Can be seen on both pages, includes the logo and the navigation bar.
-  * Navigation bar includes: Music Gallery, About Us, Contact Us. This will link to the diffrent sections of the page.
+  * Navigation bar includes: Music Gallery, About Us, Contact Us. This will link to the different sections of the page.
   * The navigation bar is valuable for users as it provides quick and easy access to important sections of the website.
 
 ![Screenshot of the navigation bar.](readme-doc/navigation-bar.jpg)
 
 * ### The landing page image
   * The image is capturing the visitors attention and setting the mood.
-  * The image fits in with the rest of the site making it look more proffesional.
-  * The landing page image is valuable as it's capturing the attetion of the user.
+  * The image fits in with the rest of the site making it look more professional.
+  * The landing page image is valuable as it's capturing the attention of the user.
 
 ![Screenshot of the Landing page Image](readme-doc/landing-page-image.jpg)
 
@@ -86,7 +86,7 @@ I used Balsamiq for this wireframe.
 | Find new music.  | By listening to music in the music gallery. |
 | Send in their music.       | The "Send In Your Music!" encourages users to send in their own music. |
 | `Returning Visitors`   |
-| To come back and find new music in the music gallery. | By updatng the music gallery regularly. |
+| To come back and find new music in the music gallery. | By updating the music gallery regularly. |
 | Send in their latest music. | By promoting their past work in the music gallery. |
 | `Admin User`           |
 | Review music sent in | Listening to the sent in music |
