@@ -128,7 +128,7 @@ I've confirmed that the site is responsive and looks good on different screen si
 | | | | | |
 | `Send In Your Music!`
 | Email Input Empty       | The Email is a required field, so should not submit with no value       | Tried to submit form with no value entered    | Tooltip lets user know this value is required      | Pass |
-| Email Input             | Entered plain text                                                     | Tried to submit form with no @ symbol entered | Tooltip lets user know to us an email address is required here | Pass |
+| Email Input             | Entered plain text                                                     | Tried to submit form with no @ symbol entered | Tooltip lets user know an email address is required here | Pass |
 | Name Input Empty        | The Name is a required field, so should not submit with no value        | Tried to submit form with no value entered    | Tooltip lets user know this value is required      | Pass |
 | Song Name Input Empty   | The Song Name is a required field, so should not submit with no value   | Tried to submit form with no value entered    | Tooltip lets user know this value is required      | Pass |
 | No File Choosen         | The choose file button is a required field, so should not submit with no value | Tried to submit form with no value entered | Tooltip lets user know selecting a file is required | Pass|
