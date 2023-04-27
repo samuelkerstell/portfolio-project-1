@@ -1,5 +1,5 @@
 /* Fonts & Structural CSS */
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
 
 * {
     margin: 0;
@@ -8,7 +8,7 @@
 }
 
 body {
-    font-family: 'Source Code Pro', sans-serif;
+    font-family: 'Prompt', sans-serif;
     font-weight: 300;
     color: #000000;
     min-height: 100vh;
@@ -23,7 +23,7 @@ html {
 h1,
 h2,
 h3 {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Prompt', sans-serif;
     text-transform: uppercase;
     text-align: center;
     letter-spacing: 4px;
@@ -278,6 +278,15 @@ footer {
 
 
 /* Media queries */
+
+/* Design was breaking under 305px and added a horizontal scroll (styled to fit galaxy fold) */
+@media screen and (max-width: 305px) {
+    p {
+        margin: 0px;
+    }
+}
+    
+
 
 @media screen and (min-width: 950px) {
     #logo {
